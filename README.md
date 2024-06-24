@@ -4,8 +4,8 @@ This project aims to extract the texts given the business cards using tools like
 **Libraries Needed**
 
 Make sure to install and import the following Python libraries 
--streamlit
--easyocr
--sql
--pandas
--numpy
+*streamlit
+*easyocr
+*sql
+*pandas
+*numpy
